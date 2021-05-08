@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eed3bdd0-5f48-4375-8330-0b26da5398be" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/pages/home/components/NewTweet.js" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1kh8MeLVZQDCwsBWkq3WlHv9Vfu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program\#COD_PROG\×Re_3_React_TopLearn\~Project\twitter\twitter project\src\api" />
+      <recent name="D:\Program\#COD_PROG\×Re_3_React_TopLearn\~Project\twitter\twitter project\src\pages\auth" />
+      <recent name="D:\Program\#COD_PROG\×Re_3_React_TopLearn\~Project\twitter\twitter project\src\pages\tweetByUser" />
+      <recent name="D:\Program\#COD_PROG\×Re_3_React_TopLearn\~Project\twitter\twitter project\src\components\header" />
+      <recent name="D:\Program\#COD_PROG\×Re_3_React_TopLearn\~Project\twitter\twitter project\public\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Program\#COD_PROG\×Re_3_React_TopLearn\~Project\twitter\twitter project\src\pages\auth" />
+      <recent name="D:\Program\#COD_PROG\×Re_3_React_TopLearn\~Project\twitter\twitter project\src\components\header" />
+      <recent name="D:\Program\#COD_PROG\×Re_3_React_TopLearn\~Project\twitter\twitter project\src\pages\home" />
+      <recent name="D:\Program\#COD_PROG\×Re_3_React_TopLearn\~Project\twitter\twitter project\src\components\mainPart" />
+      <recent name="D:\Program\#COD_PROG\×Re_3_React_TopLearn\~Project\twitter\twitter project\src\components\leftSidebar" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="json-server" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="json-server" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.json-server" />
+        <item itemvalue="npm.dev" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eed3bdd0-5f48-4375-8330-0b26da5398be" name="Default Changelist" comment="" />
+      <created>1606141415376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606141415376</updated>
+      <workItem from="1606141421978" duration="135000" />
+      <workItem from="1606141558476" duration="6078000" />
+      <workItem from="1606163059256" duration="1585000" />
+      <workItem from="1606189946786" duration="2603000" />
+      <workItem from="1606228769866" duration="11150000" />
+      <workItem from="1606282966266" duration="1859000" />
+      <workItem from="1606310686934" duration="12725000" />
+      <workItem from="1606370416370" duration="135000" />
+      <workItem from="1606461051750" duration="1253000" />
+      <workItem from="1606483285095" duration="595000" />
+      <workItem from="1606556003490" duration="1742000" />
+      <workItem from="1606567281066" duration="9967000" />
+      <workItem from="1606632054381" duration="1351000" />
+      <workItem from="1606662699402" duration="829000" />
+      <workItem from="1606670552793" duration="6147000" />
+      <workItem from="1606747137819" duration="1678000" />
+      <workItem from="1606836263769" duration="196000" />
+      <workItem from="1606836479852" duration="595000" />
+      <workItem from="1606891466456" duration="3601000" />
+      <workItem from="1606897766217" duration="157000" />
+      <workItem from="1606915481986" duration="5612000" />
+      <workItem from="1606977767471" duration="3168000" />
+      <workItem from="1607000546739" duration="2913000" />
+      <workItem from="1607012960838" duration="104000" />
+      <workItem from="1607111769912" duration="177000" />
+      <workItem from="1607112494106" duration="100000" />
+      <workItem from="1608381346547" duration="1716000" />
+      <workItem from="1609794095523" duration="339000" />
+      <workItem from="1609801198740" duration="1354000" />
+      <workItem from="1610140553212" duration="370000" />
+      <workItem from="1610141436921" duration="6067000" />
+      <workItem from="1610182375603" duration="7000" />
+      <workItem from="1610182957175" duration="278000" />
+      <workItem from="1610183248367" duration="600000" />
+      <workItem from="1610183883144" duration="226000" />
+      <workItem from="1610184138500" duration="85000" />
+      <workItem from="1610184245904" duration="903000" />
+      <workItem from="1610185180006" duration="533000" />
+      <workItem from="1610185733244" duration="1343000" />
+      <workItem from="1610187141364" duration="4510000" />
+      <workItem from="1610221843593" duration="632000" />
+      <workItem from="1610281129637" duration="5722000" />
+      <workItem from="1610482438231" duration="4278000" />
+      <workItem from="1610492447797" duration="1189000" />
+      <workItem from="1610612367315" duration="15434000" />
+      <workItem from="1610667962390" duration="596000" />
+      <workItem from="1610728119398" duration="599000" />
+      <workItem from="1610782315053" duration="1190000" />
+      <workItem from="1610794912185" duration="1208000" />
+      <workItem from="1610806804494" duration="4306000" />
+      <workItem from="1610863789018" duration="1177000" />
+      <workItem from="1610982091451" duration="2276000" />
+      <workItem from="1611073169843" duration="65000" />
+      <workItem from="1611328873709" duration="5000" />
+      <workItem from="1611328929164" duration="22000" />
+      <workItem from="1613637454485" duration="2960000" />
+      <workItem from="1613742973669" duration="502000" />
+      <workItem from="1618060304495" duration="203000" />
+      <workItem from="1618060527749" duration="25000" />
+      <workItem from="1620475505244" duration="7115000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
