@@ -10,6 +10,7 @@ import AuthPage from "../pages/auth/AuthPage";
 import {ToastContainer} from "react-toastify";
 import "react-toastify/dist/ReactToastify.css"
 import {TwittProvider} from "../context/TwittContext";
+import {LayoutProvider} from "../context/LayoutContext";
 
 const App = () => {
     return (
@@ -18,16 +19,18 @@ const App = () => {
                 <Switch>
                     <PublicRoute path={"/login"} component={AuthPage}/>
                     <PrivateRoute path={"/"} render={() =>
-                        <TwittProvider>
-                            <Layout>
-                                <Switch>
-                                    <Route exact path={"/"} component={Home}/>
-                                    <Route path={"/hashtags/:hashtag"} component={TweetByHashTag}/>
-                                    <Route path={"/users/:id/:user"} component={TweetsByUser}/>
-                                    <Route component={Page404}/>
-                                </Switch>
-                            </Layout>
-                        </TwittProvider>
+                        <LayoutProvider>
+                            <TwittProvider>
+                                <Layout>
+                                    <Switch>
+                                        <Route exact path={"/"} component={Home}/>
+                                        <Route path={"/hashtags/:hashtag"} component={TweetByHashTag}/>
+                                        <Route path={"/users/:id/:user"} component={TweetsByUser}/>
+                                        <Route component={Page404}/>
+                                    </Switch>
+                                </Layout>
+                            </TwittProvider>
+                        </LayoutProvider>
                     }/>
                 </Switch>
             </Router>

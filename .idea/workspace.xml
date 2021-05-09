@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eed3bdd0-5f48-4375-8330-0b26da5398be" name="Default Changelist" comment="" />
+    <list default="true" id="eed3bdd0-5f48-4375-8330-0b26da5398be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Drawer/TwitterDrawer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.roast" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/Style.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Style.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout/Layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/rightSidebar/Styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/rightSidebar/Styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/tweetByHashTag/TweetByHashTag.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/tweetByHashTag/TweetByHashTag.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +34,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
       <filtered-out-file-type name="LOCAL_BRANCH" />
@@ -33,6 +49,7 @@
     <setting file="file://$PROJECT_DIR$/src/pages/home/components/NewTweet.js" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1kh8MeLVZQDCwsBWkq3WlHv9Vfu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,8 +57,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/context" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -59,11 +77,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Program\#CODE_PROG\×Re-React.NodeJS-TP\~Project\twitter\twitter project\src\context" />
       <recent name="D:\Program\#COD_PROG\×Re_3_React_TopLearn\~Project\twitter\twitter project\src\api" />
       <recent name="D:\Program\#COD_PROG\×Re_3_React_TopLearn\~Project\twitter\twitter project\src\pages\auth" />
       <recent name="D:\Program\#COD_PROG\×Re_3_React_TopLearn\~Project\twitter\twitter project\src\pages\tweetByUser" />
       <recent name="D:\Program\#COD_PROG\×Re_3_React_TopLearn\~Project\twitter\twitter project\src\components\header" />
-      <recent name="D:\Program\#COD_PROG\×Re_3_React_TopLearn\~Project\twitter\twitter project\public\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Program\#COD_PROG\×Re_3_React_TopLearn\~Project\twitter\twitter project\src\pages\auth" />
@@ -192,12 +210,26 @@
       <workItem from="1613742973669" duration="502000" />
       <workItem from="1618060304495" duration="203000" />
       <workItem from="1618060527749" duration="25000" />
-      <workItem from="1620475505244" duration="7115000" />
+      <workItem from="1620475505244" duration="10923000" />
+      <workItem from="1620544522940" duration="354000" />
+      <workItem from="1620544898687" duration="3254000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

@@ -8,8 +8,6 @@ import { useTwittDispatch, useTwittState , setTweetList } from '../../context/Tw
 import { getTweetsByHashtagRequest } from "../../api/api_tweet";
 import {useLocation} from "react-router-dom"
 
-
-
 const TweetByHashTag = props => {
     const classes = useStyles();
 

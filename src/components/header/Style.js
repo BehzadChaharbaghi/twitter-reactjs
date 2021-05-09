@@ -11,6 +11,10 @@ const useStyles = makeStyles(theme => ({
         fontWeight: 600,
         marginRight: '0.2rem'
     },
+    moreMenu:{
+        padding: 0,
+        marginLeft: '0.5rem'
+    }
 }));
 
 export default useStyles;

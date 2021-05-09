@@ -6,14 +6,19 @@ import Divider from "@material-ui/core/Divider";
 import {getProfileRequest} from '../../api/api_auth';
 import {useHistory} from 'react-router';
 import {toast} from 'react-toastify';
-import {Typography} from "@material-ui/core";
+import {Typography, useTheme} from "@material-ui/core";
 import {ScaleLoader} from "react-spinners";
+import useMediaQuery from '@material-ui/core/useMediaQuery';
+import TwitterDrawer from "../Drawer/TwitterDrawer";
+
 
 
 const Layout = (props) => {
     const classes = useStyles();
     const history = useHistory();
     const [wait, setWait] = useState(true);
+    const theme= useTheme();
+    const isTabletSize= useMediaQuery(theme.breakpoints.down('sm'));
 
     useEffect(() => {
         getProfileRequest((isOk, data) => {
@@ -38,7 +43,7 @@ const Layout = (props) => {
     else
         return (
             <div className={classes.root}>
-                <RightSidebar/>
+                {isTabletSize ? <TwitterDrawer/> : <RightSidebar/>}
                 <Divider orientaion={"vertical"} className={classes.divider}/>
                 <div className={classes.content}>
                     {props.children}
